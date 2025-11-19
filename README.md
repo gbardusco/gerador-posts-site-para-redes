@@ -60,6 +60,7 @@ Ferramenta web completa e responsiva para criar artes padronizadas para as redes
     ├── logo_cps_versao_cor.png
     └── logo-gov-sp-pb-com-vermelho.png
     └── ...
+```
 
 ## 🚀 Como Usar
 
